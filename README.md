@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">🌍 São Paulo - Brazil | 💡Construir suloções eficientes e inovadoras</p>
+<p align="left">🌍 São Paulo - Brazil | 💡Construir suloções eficientes e inovadoras através dos dados</p>
 
 ###
 
-<p align="left">Data engineering | Data science | Machine Learning | Cloud Programming | Web development</p>
+<p align="left">Data engineering & Data science | Machine Learning | Cloud Programming </p>
 
 ###
 
@@ -79,11 +79,11 @@
 
 ###
 
-<p align="left">📚 Bacharelado em ciência da computação 8/8<br>📚 Formação em Engenharia de dados (em andamento)</p>
+<p align="left">📚 Bacharel em ciência da computação <br>📚 MBA em Ciência de Dados e Inteligência Artifical aplicada à Negócios <br></p>
 
 ###
 
-<h2 align="left">Mídias e redes sociais para se conectar</h2>
+<h2 align="left">Mídias e redes sociais para Network</h2>
 
 ###
 
