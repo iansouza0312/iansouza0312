@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">🌍 São Paulo - Brazil | 💡Construir suloções eficientes e inovadoras através dos dados</p>
+<p align="left">🌍 São Paulo - Brazil | 💡Construir suloções eficientes e inovadoras através de dados</p>
 
 ###
 
-<p align="left">Data engineering & Data science | Machine Learning | Cloud Programming </p>
+<p align="left">Data engineer & Data scientist | Machine Learning | AI | Cloud Programming </p>
 
 ###
 
-<p align="left">Bem-vindo(a) ao meu perfil do GItHub ! Sou programador e atualmente tenho trabalhado com projetos da área de engenharia de dados e também desenvolvimento web. Gosto muito de trabalhar com tecnologias e serviços cloud, além de desenvolvimento backend/frontend e criação de pipelines para ETL. Estou sempre disposto a aprender novas tecnologias e explorar novas ferramentas e frameworks para absorver conhecimento.</p>
+<p align="left">Bem-vindo(a) ao meu perfil do GItHub ! Atuo no mercado de T.I. desde 2021, tendo vasta experiência na área de dados, e com breve experiência em desenvolvimento full-stack, e também possuo projetos desenvolvidos e com deploy em abientes de cloud (AWS e Azure). Atuei em diversos projetos, trabalhanto com arquitetura e implementação de pipeline's de ETLs'/ELT's, arquitetura e governança de dados, arquitetura e implementação de DL's e DW's, modelagem e governaça de I.A., treinamento de modelos preditivos, integração com langchain, entre as demais etapas em projetos com big data.</p>
 
 ###
 
-<h2 align="left">Algumas das Técnologias e Ferramentas que utilizo para trabalhar</h2>
+<h2 align="left">Tecnologias e Frameworks com proficiência</h2>
 
 ###
 
@@ -75,11 +75,11 @@
 
 ###
 
-<h2 align="left">Formações</h2>
+<h2 align="left">Formações acadêmicas</h2>
 
 ###
 
-<p align="left">📚 Bacharel em ciência da computação <br>📚 MBA em Ciência de Dados e Inteligência Artifical aplicada à Negócios <br></p>
+<p align="left">📚 Bacharel em ciência da computação <br>📚 Cursando MBA em Ciência de Dados e Inteligência Artifical aplicada à Negócios <br> 📚 Curso técnico em Técnologia da InformaçãoNegócios <br></p>
 
 ###
 
@@ -90,15 +90,37 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
 </div>
 
 ###
 
-<h2 align="left">🛠️ Tech skills</h2>
+<h2 align="left">🛠️ Hard Skills</h2>
 
 ###
 
-<p align="left">Cloud e Infraestrutura : AWS ☁️ | Docker 🐳 | Kubernetes ⚓<br>Big Data e Processamento de dados : Apache Spark ⚡ | Data Pipelines | ETL<br>Databases : SQL | NoSQL | Data Warehousing<br>Ferramentas/outros : Git | CI/CD | Terraform | Linux<br>Core languages : Python 🐍 | Java ☕ | JS/TS | REST APIs | Microservices | React ⚛️ | Angular | Node.js</p>
+<p align="left">
+Data Science & Machine Learning : Machine Learning 🤖 | Deep Learning | NLP | Feature Engineering | Model Evaluation | Experimentation<br>
+Data Engineering : Data Pipelines 🔄 | ETL / ELT | Data Modeling | Batch & Streaming Processing | Data Quality | Data Governance<br>
+Big Data & Distributed Systems : Apache Spark ⚡ | Kafka | Hadoop | Distributed Computing | Parallel Processing<br>
+MLOps & Production AI : Model Deployment 🚀 | MLflow | CI/CD for ML | Monitoring | A/B Testing | Model Versioning<br>
+Cloud & Infrastructure : AWS ☁️ | GCP | Azure | Docker 🐳 | Kubernetes ⚓ | Infrastructure as Code | Terraform<br>
+Databases & Storage : SQL 🗄️ | NoSQL | Data Warehouses | Data Lakes | Snowflake | BigQuery | PostgreSQL<br>
+Programming & Tools : Python 🐍 | Pandas | NumPy | Scikit-Learn | PyTorch | TensorFlow | Git | Linux | APIs
+</p>
+
+###
+
+<h2 align="left">🛠️ Soft Skills</h2>
+
+###
+
+<p align="left">
+Analytical Thinking : Critical Thinking 🧠 | Problem Solving | Hypothesis-Driven Analysis | Decision Making<br>
+Communication & Data Storytelling : Explaining Complex Data 📊 | Stakeholder Communication | Data Storytelling | Visualization Thinking<br>
+Collaboration : Cross-Functional Work 🤝 | Team Collaboration | Knowledge Sharing | Mentorship<br>
+Business & Product Mindset : Business Acumen 💼 | Product Thinking | Impact-Driven Analysis | ROI-Focused Solutions<br>
+Adaptability & Learning : Continuous Learning 📚 | Curiosity | Adaptability | Growth Mindset<br>
+Leadership & Ownership : Technical Leadership 🚀 | Project Ownership | Strategic Thinking
+</p>
 
 ###
